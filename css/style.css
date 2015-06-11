@@ -1,0 +1,37 @@
+
+
+body {
+	font-family: 'Lato', sans-serif;
+ 	font-weight: 400;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	text-align: right;
+}
+
+h2 {
+	color: #a9a9a9;
+	font-family: 'Lato', sans-serif;
+ 	font-weight: 400;
+}
+
+h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+h4 {
+	color: #080808;
+	text-align: right;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+img,
+embed,
+object,
+video {
+	max-width: 100%;
+}
